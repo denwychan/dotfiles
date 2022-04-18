@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = waeyee.chan@gmail.com
+	name = Denise Chan
